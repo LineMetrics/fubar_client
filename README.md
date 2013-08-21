@@ -1,4 +1,4 @@
 fubar_client
 ============
 
-erlang mqtt client extracted from /jinnipark/fubar, rebar friendly
+erlang mqtt client (vs. 3.1) extracted from /jinnipark/fubar, rebar friendly
